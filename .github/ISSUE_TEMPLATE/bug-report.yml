@@ -35,9 +35,9 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs-screenshots
+    id: screenshots
     attributes:
-      label: Relevant log output screenshots
+      label: Relevant Screenshots Or Videos
       description: Please take a screenshot of the problem, or record a `.gif`, and paste it here.
   - type: textarea
     id: logs
