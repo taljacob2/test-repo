@@ -41,7 +41,7 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
   - type: textarea
-    id: logs
+    id: logs-screenshots
     attributes:
       label: Relevant log output screenshots
       description: Please take a screenshot of the problem, or record a `.gif`, and paste it here.
