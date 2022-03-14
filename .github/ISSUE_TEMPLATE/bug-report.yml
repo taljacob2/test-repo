@@ -37,7 +37,7 @@ body:
   - type: textarea
     id: screenshots
     attributes:
-      label: Relevant Screenshots Or Videos
+      label: Relevant screenshots or videos
       description: Please take a screenshot of the problem, or record a `.gif`, and paste it here.
   - type: textarea
     id: logs
