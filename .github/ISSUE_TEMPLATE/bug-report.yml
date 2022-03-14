@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: ":bug:"
+labels: ["bug"]
 assignees:
   - octocat
 body:
@@ -56,7 +56,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow our [CONTRIBUTING.md](CONTRIBUTING.md) file.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's `CONTRIBUTING.md` file.
           required: true
